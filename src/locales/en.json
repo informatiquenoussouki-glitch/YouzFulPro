@@ -1,0 +1,181 @@
+{
+  "inscription": {
+    "titre": "Join YouzFul Pro",
+    "etape": "Step {{current}}/{{total}}",
+    "suivant": "Next",
+    "precedent": "Back",
+    "envoyer": "Submit my application",
+    "retour_connexion": "Back to login",
+
+    "step1": {
+      "titre": "Personal information",
+      "prenom": "First name",
+      "nom": "Last name",
+      "email": "Email address",
+      "telephone": "Phone number",
+      "password": "Password",
+      "password_confirm": "Confirm password",
+      "date_naissance": "Date of birth",
+      "date_naissance_placeholder": "DD/MM/YYYY",
+      "sexe": "Gender",
+      "sexe_h": "Male",
+      "sexe_f": "Female",
+      "photo": "Profile photo (optional)",
+      "choisir_photo": "Choose a photo",
+      "numero_identite": "ID number (optional)",
+      "verifier_email": "Verify my email",
+      "code_verification": "Verification code",
+      "code_placeholder": "4 digits",
+      "valider_code": "Confirm",
+      "email_verifie": "Email verified ✓",
+      "erreur_age": "You must be at least 16 years old",
+      "erreur_password": "Passwords do not match",
+      "erreur_email_format": "Invalid email format",
+      "erreur_champs": "Please fill in all required fields",
+      "verifier": "Verify",
+      "code_envoye": "Code sent to {{email}}",
+      "erreur_titre": "Error",
+      "erreur_envoi_code": "Unable to send the email, please try again.",
+      "code_invalide": "Invalid code",
+      "code_invalide_expire": "Invalid or expired code",
+      "requis": "Required",
+      "email_invalide": "Invalid email",
+      "erreur_verification_requise": "Please verify your email"
+    },
+
+    "step2": {
+      "titre": "Service type",
+      "sous_titre": "What service do you offer?",
+      "babysitter": "Babysitter",
+      "guide": "Tour guide",
+      "transfert": "Driver / Transfer",
+      "restaurant": "Restaurant",
+      "activite": "Activities & Excursions",
+      "erreur_selection": "Select a service"
+    },
+
+    "step3": {
+      "titre": "Country & Cities",
+      "pays": "Country of activity",
+      "villes": "Cities covered",
+      "selectionner_pays": "Select a country",
+      "chargement": "Loading...",
+      "erreur_villes": "Please select at least one city",
+      "erreur_pays": "Select a country",
+      "aucune_ville": "No cities available"
+    },
+
+    "step4": {
+      "titre": "Preferences",
+      "typevisites": "Tour types offered",
+      "avec_voiture": "With personal vehicle",
+      "disponibilite": "Availability",
+      "matin": "Morning",
+      "jour": "Daytime",
+      "soir": "Evening",
+      "typetransferts": "Transfer types",
+      "rayon_km": "Work radius (km)",
+      "nom_restaurant": "Restaurant name",
+      "specialites": "Culinary specialties",
+      "ajouter_specialite": "Add a specialty",
+      "nom_specialite": "Specialty name",
+      "ajouter": "Add",
+      "types_vehicules": "Vehicle types",
+      "aucun_vehicule": "No vehicle available",
+      "logo_restaurant": "Restaurant logo (optional)",
+      "choisir_logo": "Choose a logo",
+      "activites_proposees": "Activities you offer",
+      "aucune_activite": "No activity available",
+      "erreur_transfert": "Select at least one transfer type",
+      "erreur_nom_resto": "The restaurant name is required",
+      "erreur_specialite": "Select at least one specialty",
+      "erreur_activite": "Select at least one activity",
+      "erreur_ajout_specialite": "Unable to add this specialty",
+      "types_transfert": {
+        "aeroport": "Airport",
+        "hotel": "Hotel",
+        "excursion": "Excursion",
+        "tour_ville": "City tour",
+        "pelerinage": "Pilgrimage"
+      }
+    },
+
+    "step5": {
+      "titre": "Languages spoken",
+      "sous_titre": "Select your languages",
+      "erreur": "Select at least one language"
+    },
+
+    "step6": {
+      "titre": "Payment",
+      "mode": "Payment method",
+      "cash": "Cash",
+      "virement": "Bank transfer",
+      "iban": "IBAN / Account (optional)",
+      "iban_placeholder": "Account number",
+      "cgu": "I accept the terms and conditions",
+      "voir_cgu": "View Terms",
+      "erreur_cgu": "You must accept the terms and conditions"
+    },
+
+    "step7": {
+      "titre": "Summary",
+      "nom_complet": "Full name",
+      "email": "Email",
+      "telephone": "Phone",
+      "service": "Service",
+      "pays": "Country",
+      "villes": "Cities",
+      "langues": "Languages",
+      "paiement": "Payment",
+      "confirmation_titre": "Your application has been submitted!",
+      "confirmation_message": "You will receive a confirmation email.\nOur team will review your profile within 24-48 hours.",
+      "erreur_envoi": "Submission error, please try again",
+      "paiement_virement_value": "🏦 Bank transfer",
+      "paiement_especes_value": "💵 Cash"
+    }
+  },
+
+  "login": {
+    "pas_inscrit": "Not registered yet?",
+    "rejoindre": "Join YouzFul Pro",
+    "subtitle": "Provider area",
+    "email": "Email address",
+    "password": "Password",
+    "se_connecter": "Log in",
+    "erreur_email_requis": "Please enter your email",
+    "erreur_password_requis": "Please enter your password",
+    "erreur_identifiants": "Incorrect email or password",
+    "erreur_connexion": "Connection error",
+    "connexion_lente": "Login is taking longer than usual, please wait...",
+    "mdp_oublie": "Forgot password?",
+    "forgot": {
+      "titre": "Forgot password",
+      "sous_titre": "Enter your email address to receive a reset link.",
+      "email": "Email address",
+      "envoyer": "Send",
+      "retour": "Back to login",
+      "erreur_titre": "Error",
+      "erreur_email_vide": "Please enter your email address",
+      "succes_titre": "Success",
+      "succes_message": "If this address exists, a reset email has been sent.",
+      "erreur_envoi": "Unable to send the reset email."
+    }
+  },
+
+  "navigation": {
+    "tabs": {
+      "accueil": "Home",
+      "demandes": "Requests",
+      "revenus": "Earnings",
+      "profil": "Profile"
+    },
+    "alertes": {
+      "mission_prete_titre": "Mission ready",
+      "mission_prete_message": "The request scheduled at {{heure}} can start now.",
+      "mission_demain_titre": "Mission tomorrow",
+      "mission_demain_message": "You have a mission scheduled tomorrow at {{heure}}.",
+      "mission_demain_message_plats": "You have a mission scheduled tomorrow at {{heure}}: {{plats}}."
+    }
+  }
+}

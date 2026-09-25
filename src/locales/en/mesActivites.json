@@ -1,0 +1,40 @@
+{
+  "header": {
+    "back": "Back",
+    "title": "Linked activities"
+  },
+  "addButton": "Add an activity",
+  "photo": "Photo",
+  "price": "Price: ",
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive"
+  },
+  "cancelButton": "Cancel",
+  "empty": {
+    "title": "No linked activities",
+    "text": "Add medina activities that you offer."
+  },
+  "confirmRemove": {
+    "title": "Remove",
+    "message": "Do you want to remove the activity \"{{name}}\"?",
+    "cancel": "No",
+    "confirm": "Remove activity"
+  },
+  "errors": {
+    "title": "Error",
+    "loadActivites": "Unable to load your activities.",
+    "toggleActivite": "Unable to change the status of this activity.",
+    "removeActivite": "Unable to remove this activity.",
+    "loadCatalogue": "Unable to load the activities catalogue.",
+    "addActivite": "Unable to add this activity."
+  },
+  "catalogue": {
+    "header": {
+      "title": "Activities catalogue"
+    },
+    "empty": "No activities available",
+    "alreadyAdded": "Already added",
+    "addButton": "Add"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "back": "Retour",
+  "photo": "Photo",
+  "price": "Prix : ",
+  "delivery": "Livraison : ",
+  "status": "Statut : ",
+  "statusActive": "Actif",
+  "statusInactive": "Inactif",
+  "list": {
+    "title": "Mes plats",
+    "addButton": "Ajouter un plat",
+    "empty": {
+      "title": "Aucun plat trouvé",
+      "text": "Vous n'avez encore ajouté aucun plat."
+    }
+  },
+  "actions": {
+    "view": "Voir",
+    "edit": "Modifier",
+    "delete": "Supprimer"
+  },
+  "deleteConfirm": {
+    "title": "Supprimer",
+    "message": "Voulez-vous supprimer le plat \"{{name}}\" ?",
+    "cancel": "Annuler",
+    "confirm": "Supprimer"
+  },
+  "errors": {
+    "title": "Erreur",
+    "loadPlats": "Impossible de charger la liste des plats.",
+    "missingToken": "Token manquant",
+    "deleteFailed": "Suppression impossible",
+    "deleteFailedGeneric": "Impossible de supprimer le plat"
+  },
+  "success": {
+    "title": "Succès",
+    "deleted": "Plat supprimé"
+  },
+  "detail": {
+    "title": "Détail du plat",
+    "noImage": "Aucune image",
+    "empty": "—",
+    "fields": {
+      "name": "Nom du plat",
+      "price": "Prix",
+      "deliveryTime": "Temps de livraison",
+      "ingredients": "Ingrédients",
+      "status": "Statut"
+    }
+  },
+  "form": {
+    "addTitle": "Ajouter un plat",
+    "editTitle": "Modifier le plat",
+    "name": "Nom du plat",
+    "price": "Prix (SAR)",
+    "deliveryTime": "Temps de livraison (min)",
+    "ingredients": "Ingrédients",
+    "photo": "Photo",
+    "choosePhoto": "Choisir une photo",
+    "changePhoto": "Changer la photo",
+    "status": "Statut",
+    "statusActive": "Actif",
+    "statusInactive": "Inactif",
+    "saving": "Enregistrement...",
+    "add": "Ajouter",
+    "save": "Sauvegarder",
+    "errors": {
+      "required": "Nom, prix et délai de livraison sont obligatoires.",
+      "missingToken": "Token manquant.",
+      "addFailed": "Impossible d'ajouter le plat",
+      "editFailed": "Impossible de modifier le plat"
+    },
+    "success": {
+      "added": "Plat ajouté avec succès",
+      "edited": "Plat modifié avec succès"
+    }
+  }
+}

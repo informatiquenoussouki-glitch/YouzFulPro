@@ -1,0 +1,127 @@
+{
+  "header": {
+    "title": "My Requests"
+  },
+  "serviceLabels": {
+    "babysitter": "Babysitter",
+    "guide": "Tour guide",
+    "transfert": "Transfer",
+    "restaurant": "Restaurant",
+    "activite": "Activity"
+  },
+  "filters": {
+    "all": "All",
+    "accepte": "Accepted",
+    "en_cours": "In progress",
+    "termine": "Completed"
+  },
+  "statutLabels": {
+    "accepte": "Accepted",
+    "en_cours": "In progress",
+    "livraison": "Out for delivery",
+    "termine": "Completed"
+  },
+  "empty": {
+    "text": "No requests"
+  },
+  "card": {
+    "dateNotSet": "Date not set",
+    "timeNotSet": "Time not set"
+  },
+  "actions": {
+    "cancel": "Cancel",
+    "start": "Start",
+    "deliver": "Deliver",
+    "finish": "Finish"
+  },
+  "payment": {
+    "paid": "Paid ✓",
+    "notPaid": "Not paid"
+  },
+  "timer": {
+    "missionFinished": "⏰ Mission finished!",
+    "remaining": "⏱ {{tempsRestant}} remaining",
+    "extensionAdded": "+{{minutes}}min added · +{{cost}} SAR"
+  },
+  "alerts": {
+    "missionReadyTitle": "Mission ready",
+    "missionReadyMessage": "The mission scheduled at {{heure}} can start now.",
+    "paymentTitle": "Payment",
+    "paymentClientFinishedMessage": "The client has finished the mission.\nCash payment — Confirmed?",
+    "activityFinishedPaymentMessage": "The activity duration has ended.\nCash payment — Confirmed?",
+    "cashPaymentMessage": "Cash payment — Confirmed?",
+    "yes": "Yes",
+    "no": "No",
+    "errorTitle": "Error",
+    "livraisonError": "Unable to switch to delivery.",
+    "missionNotFinishedTitle": "Mission not finished",
+    "cancelMissionTitle": "Cancel mission",
+    "cancelMissionMessage": "Are you sure you want to cancel this request?",
+    "cancelError": "Unable to cancel the request.",
+    "extensionRequestTitle": "Extension request",
+    "extensionRequestMessage": "The client would like to extend the mission by {{minutes}} minutes. Do you accept?",
+    "accept": "Accept",
+    "refuse": "Decline",
+    "extensionRespondError": "Unable to send your response. Please try again."
+  },
+  "detail": {
+    "back": "Back",
+    "title": "Request details",
+    "notFound": "Request not found",
+    "statutLabels": {
+      "en_attente": "Pending",
+      "accepte": "Accepted",
+      "en_cours": "In progress",
+      "termine": "Completed",
+      "refuse": "Declined",
+      "annule": "Cancelled"
+    },
+    "sections": {
+      "informations": "Information",
+      "platsCommandes": "Ordered dishes ({{count}})",
+      "noPlats": "No dish specified for this booking.",
+      "totalPlats": "Dishes total",
+      "client": "Client",
+      "facturation": "Billing",
+      "total": "Total"
+    },
+    "fields": {
+      "numeroDemande": "Request No.",
+      "ville": "City",
+      "adresse": "Address",
+      "date": "Date",
+      "heureDebut": "Start time",
+      "dureePrevue": "Planned duration",
+      "personnes": "People",
+      "notes": "Notes",
+      "prenom": "First name",
+      "nom": "Last name",
+      "email": "Email",
+      "telephone": "Phone",
+      "prixBase": "Base price",
+      "dureeInitiale": "Initial duration",
+      "tempsAjoute": "Added time",
+      "coutAjoute": "Added cost",
+      "dureeTotale": "Total duration"
+    },
+    "unitPriceSuffix": "SAR / unit",
+    "actions": {
+      "accept": "✓ Accept the request",
+      "refuse": "✕ Decline"
+    },
+    "alerts": {
+      "vehicleUnavailableTitle": "Vehicle unavailable",
+      "vehicleUnavailableMessage": "This car{{vehicule}} is not available for this time slot.",
+      "limitReachedTitle": "Limit reached",
+      "limitReachedMessage": "You already have 3 active missions in this time slot. You cannot accept another one.",
+      "notAvailableTitle": "Not available",
+      "acceptError": "Unable to accept this request.",
+      "successTitle": "Success",
+      "successMessage": "Request accepted!",
+      "confirmTitle": "Confirm",
+      "confirmRefuseMessage": "Decline this request?",
+      "cancel": "Cancel",
+      "refuse": "Decline"
+    }
+  }
+}

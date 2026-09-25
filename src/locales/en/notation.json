@@ -1,0 +1,28 @@
+{
+  "header": {
+    "back": "Back",
+    "title": "My Rating"
+  },
+  "nbAvis": "{{count}} reviews",
+  "repartition": {
+    "positifs": "Positive",
+    "moyens": "Average",
+    "negatifs": "Negative"
+  },
+  "position": {
+    "label": "#{{position}} most requested provider{{totalSuffix}}",
+    "suffixFirst": "",
+    "suffixOther": "",
+    "totalSuffix": " out of {{total}}"
+  },
+  "conseils": {
+    "title": "Tips to stay on top",
+    "respond": "Respond quickly to stay at the top of the list",
+    "rating": "Keep a rating above 4.5 to receive priority requests",
+    "dispo": "Keep your availability up to date to maximize your chances"
+  },
+  "reviews": {
+    "title": "Client reviews ({{count}})",
+    "empty": "No reviews yet"
+  }
+}

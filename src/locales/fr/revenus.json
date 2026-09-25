@@ -1,0 +1,13 @@
+{
+  "title": "Mes Revenus",
+  "periodes": {
+    "mois": {"label": "Ce mois", "lower": "ce mois"},
+    "semaine": {"label": "Cette semaine", "lower": "cette semaine"},
+    "annee": {"label": "Cette année", "lower": "cette année"}
+  },
+  "totalLabel": "Total {{period}}",
+  "history": {
+    "title": "Historique des paiements",
+    "empty": "Aucun paiement sur cette période"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "language": {
+    "select": "Language",
+    "fr": "French",
+    "en": "English",
+    "fr_short": "FR",
+    "en_short": "EN"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "retry": "Retry",
+    "yes": "Yes",
+    "no": "No",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "seeAll": "See all",
+    "noData": "No data available",
+    "networkError": "Network error, please try again",
+    "requiredField": "This field is required"
+  }
+}

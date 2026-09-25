@@ -1,0 +1,78 @@
+{
+  "back": "Back",
+  "photo": "Photo",
+  "price": "Price: ",
+  "delivery": "Delivery: ",
+  "status": "Status: ",
+  "statusActive": "Active",
+  "statusInactive": "Inactive",
+  "list": {
+    "title": "My dishes",
+    "addButton": "Add a dish",
+    "empty": {
+      "title": "No dishes found",
+      "text": "You haven't added any dishes yet."
+    }
+  },
+  "actions": {
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "deleteConfirm": {
+    "title": "Delete",
+    "message": "Do you want to delete the dish \"{{name}}\"?",
+    "cancel": "Cancel",
+    "confirm": "Delete"
+  },
+  "errors": {
+    "title": "Error",
+    "loadPlats": "Unable to load the list of dishes.",
+    "missingToken": "Missing token",
+    "deleteFailed": "Unable to delete",
+    "deleteFailedGeneric": "Unable to delete the dish"
+  },
+  "success": {
+    "title": "Success",
+    "deleted": "Dish deleted"
+  },
+  "detail": {
+    "title": "Dish details",
+    "noImage": "No image",
+    "empty": "—",
+    "fields": {
+      "name": "Dish name",
+      "price": "Price",
+      "deliveryTime": "Delivery time",
+      "ingredients": "Ingredients",
+      "status": "Status"
+    }
+  },
+  "form": {
+    "addTitle": "Add a dish",
+    "editTitle": "Edit dish",
+    "name": "Dish name",
+    "price": "Price (SAR)",
+    "deliveryTime": "Delivery time (min)",
+    "ingredients": "Ingredients",
+    "photo": "Photo",
+    "choosePhoto": "Choose a photo",
+    "changePhoto": "Change photo",
+    "status": "Status",
+    "statusActive": "Active",
+    "statusInactive": "Inactive",
+    "saving": "Saving...",
+    "add": "Add",
+    "save": "Save",
+    "errors": {
+      "required": "Name, price and delivery time are required.",
+      "missingToken": "Missing token.",
+      "addFailed": "Unable to add the dish",
+      "editFailed": "Unable to edit the dish"
+    },
+    "success": {
+      "added": "Dish added successfully",
+      "edited": "Dish edited successfully"
+    }
+  }
+}

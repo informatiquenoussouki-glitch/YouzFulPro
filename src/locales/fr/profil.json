@@ -1,0 +1,49 @@
+{
+  "title": "Mon Profil",
+  "personalInfo": {
+    "title": "Informations personnelles",
+    "cancel": "Annuler",
+    "modify": "Modifier",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "save": "Sauvegarder"
+  },
+  "links": {
+    "vehicules": {
+      "title": "Mes véhicules",
+      "subtitle": "Gérer les véhicules que vous proposez"
+    },
+    "disponibilites": {
+      "title": "Mes disponibilités",
+      "subtitle": "Gérer mes horaires de disponibilité"
+    },
+    "plats": {
+      "title": "Mes plats",
+      "subtitle": "Gérer mes plats et mon menu"
+    },
+    "activites": {
+      "title": "Activités associées",
+      "subtitle": "Gérer les activités que vous proposez"
+    },
+    "notation": {
+      "title": "Ma notation"
+    },
+    "contactAdmin": {
+      "title": "Contacter l'administration",
+      "subtitle": "Envoyer un message à l'équipe YouzFul"
+    }
+  },
+  "logout": {
+    "button": "Se déconnecter",
+    "confirmTitle": "Déconnexion",
+    "confirmMessage": "Voulez-vous vous déconnecter ?",
+    "cancel": "Annuler",
+    "confirm": "Déconnecter"
+  },
+  "alerts": {
+    "successTitle": "Succès",
+    "profileUpdated": "Profil mis à jour !"
+  }
+}

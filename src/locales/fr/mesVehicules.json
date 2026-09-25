@@ -1,0 +1,47 @@
+{
+  "header": {
+    "back": "Retour",
+    "title": "Mes véhicules"
+  },
+  "addButton": "Ajouter un véhicule",
+  "empty": {
+    "title": "Aucun véhicule enregistré",
+    "text": "Ajoutez les véhicules que vous proposez pour le transfert."
+  },
+  "dispo": {
+    "matin": "Matin",
+    "jour": "Journée",
+    "soir": "Soir",
+    "allDay": "Toute la journée"
+  },
+  "card": {
+    "edit": "Modifier",
+    "delete": "Supprimer"
+  },
+  "errors": {
+    "title": "Erreur",
+    "loadVehicules": "Impossible de charger vos véhicules.",
+    "selectVehiculeType": "Sélectionnez un type de véhicule",
+    "selectVille": "Sélectionnez au moins une ville",
+    "saveFailed": "Impossible d'enregistrer ce véhicule",
+    "deleteFailed": "Impossible de supprimer ce véhicule."
+  },
+  "deleteConfirm": {
+    "title": "Supprimer",
+    "message": "Voulez-vous retirer \"{{vehicule}}\" ({{ville}}) ?",
+    "cancel": "Annuler",
+    "confirm": "Supprimer"
+  },
+  "modal": {
+    "editTitle": "Modifier le véhicule",
+    "addTitle": "Ajouter un véhicule",
+    "vehiculeType": "Type de véhicule *",
+    "selectVehicule": "Sélectionner un véhicule",
+    "villeSingle": "Ville *",
+    "villeMultiple": "Villes * (plusieurs choix possibles)",
+    "noVilleAvailable": "Aucune ville disponible",
+    "availability": "Disponibilité",
+    "cancel": "Annuler",
+    "save": "Enregistrer"
+  }
+}

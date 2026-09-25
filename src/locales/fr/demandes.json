@@ -1,0 +1,127 @@
+{
+  "header": {
+    "title": "Mes Demandes"
+  },
+  "serviceLabels": {
+    "babysitter": "Baby-sitter",
+    "guide": "Guide touristique",
+    "transfert": "Transfert",
+    "restaurant": "Restaurant",
+    "activite": "Activité"
+  },
+  "filters": {
+    "all": "Tous",
+    "accepte": "Acceptées",
+    "en_cours": "En cours",
+    "termine": "Terminées"
+  },
+  "statutLabels": {
+    "accepte": "Acceptée",
+    "en_cours": "En cours",
+    "livraison": "En cours de livraison",
+    "termine": "Terminée"
+  },
+  "empty": {
+    "text": "Aucune demande"
+  },
+  "card": {
+    "dateNotSet": "Date non définie",
+    "timeNotSet": "Heure non définie"
+  },
+  "actions": {
+    "cancel": "Annuler",
+    "start": "Commencer",
+    "deliver": "Livrer",
+    "finish": "Terminer"
+  },
+  "payment": {
+    "paid": "Payé ✓",
+    "notPaid": "Non Payé"
+  },
+  "timer": {
+    "missionFinished": "⏰ Mission terminée !",
+    "remaining": "⏱ {{tempsRestant}} restant",
+    "extensionAdded": "+{{minutes}}min ajoutées · +{{cost}} SAR"
+  },
+  "alerts": {
+    "missionReadyTitle": "Mission prête",
+    "missionReadyMessage": "La mission prévue à {{heure}} peut commencer maintenant.",
+    "paymentTitle": "Paiement",
+    "paymentClientFinishedMessage": "Le client a terminé la mission.\nPaiement en espèce — Confirmé ?",
+    "activityFinishedPaymentMessage": "La durée de l'activité est terminée.\nPaiement avec espèce — Confirmé ?",
+    "cashPaymentMessage": "Paiement avec espèce — Confirmé ?",
+    "yes": "Oui",
+    "no": "Non",
+    "errorTitle": "Erreur",
+    "livraisonError": "Impossible de passer en livraison.",
+    "missionNotFinishedTitle": "Mission non terminée",
+    "cancelMissionTitle": "Annuler la mission",
+    "cancelMissionMessage": "Êtes-vous sûr de vouloir annuler cette demande ?",
+    "cancelError": "Impossible d'annuler la demande.",
+    "extensionRequestTitle": "Demande de prolongation",
+    "extensionRequestMessage": "Le client souhaite prolonger la mission de {{minutes}} minutes. Acceptez-vous ?",
+    "accept": "Accepter",
+    "refuse": "Refuser",
+    "extensionRespondError": "Impossible d'envoyer votre réponse. Réessayez."
+  },
+  "detail": {
+    "back": "Retour",
+    "title": "Détail de la demande",
+    "notFound": "Demande introuvable",
+    "statutLabels": {
+      "en_attente": "En attente",
+      "accepte": "Acceptée",
+      "en_cours": "En cours",
+      "termine": "Terminée",
+      "refuse": "Refusée",
+      "annule": "Annulée"
+    },
+    "sections": {
+      "informations": "Informations",
+      "platsCommandes": "Plats commandés ({{count}})",
+      "noPlats": "Aucun plat renseigné pour cette réservation.",
+      "totalPlats": "Total plats",
+      "client": "Client",
+      "facturation": "Facturation",
+      "total": "Total"
+    },
+    "fields": {
+      "numeroDemande": "N° demande",
+      "ville": "Ville",
+      "adresse": "Adresse",
+      "date": "Date",
+      "heureDebut": "Heure de début",
+      "dureePrevue": "Durée prévue",
+      "personnes": "Personnes",
+      "notes": "Notes",
+      "prenom": "Prénom",
+      "nom": "Nom",
+      "email": "Email",
+      "telephone": "Téléphone",
+      "prixBase": "Prix de base",
+      "dureeInitiale": "Durée initiale",
+      "tempsAjoute": "Temps ajouté",
+      "coutAjoute": "Coût ajouté",
+      "dureeTotale": "Durée totale"
+    },
+    "unitPriceSuffix": "SAR / unité",
+    "actions": {
+      "accept": "✓ Accepter la demande",
+      "refuse": "✕ Refuser"
+    },
+    "alerts": {
+      "vehicleUnavailableTitle": "Véhicule non disponible",
+      "vehicleUnavailableMessage": "Cette voiture{{vehicule}} n'est pas disponible dans ce créneau horaire.",
+      "limitReachedTitle": "Limite atteinte",
+      "limitReachedMessage": "Vous avez déjà 3 missions actives sur ce créneau. Impossible d'en accepter une autre.",
+      "notAvailableTitle": "Non disponible",
+      "acceptError": "Impossible d'accepter cette demande.",
+      "successTitle": "Succès",
+      "successMessage": "Demande acceptée !",
+      "confirmTitle": "Confirmer",
+      "confirmRefuseMessage": "Refuser cette demande ?",
+      "cancel": "Annuler",
+      "refuse": "Refuser"
+    }
+  }
+}

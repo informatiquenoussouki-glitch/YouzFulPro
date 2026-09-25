@@ -1,0 +1,40 @@
+{
+  "header": {
+    "back": "Retour",
+    "title": "Activités associées"
+  },
+  "addButton": "Ajouter une activité",
+  "photo": "Photo",
+  "price": "Prix : ",
+  "status": {
+    "active": "Activée",
+    "inactive": "Désactivée"
+  },
+  "cancelButton": "Annuler",
+  "empty": {
+    "title": "Aucune activité associée",
+    "text": "Ajoutez des activités de la médina que vous proposez."
+  },
+  "confirmRemove": {
+    "title": "Annuler",
+    "message": "Voulez-vous retirer l'activité \"{{name}}\" ?",
+    "cancel": "Non",
+    "confirm": "Annuler l'activité"
+  },
+  "errors": {
+    "title": "Erreur",
+    "loadActivites": "Impossible de charger vos activités.",
+    "toggleActivite": "Impossible de modifier le statut de cette activité.",
+    "removeActivite": "Impossible de retirer cette activité.",
+    "loadCatalogue": "Impossible de charger le catalogue des activités.",
+    "addActivite": "Impossible d'ajouter cette activité."
+  },
+  "catalogue": {
+    "header": {
+      "title": "Catalogue des activités"
+    },
+    "empty": "Aucune activité disponible",
+    "alreadyAdded": "Déjà ajoutée",
+    "addButton": "Ajouter"
+  }
+}

@@ -64,3 +64,20 @@ yarn-error.log
 
 # testing
 /coverage
+
+# Outils IA locaux (config personnelle, pas du code applicatif)
+.claude/
+.claude-flow/
+.mcp.json
+CLAUDE.md
+
+# Captures d'ecran de reference (documentation locale, pas necessaires au build)
+/*.JPG
+/*.jpg
+/capture/
+
+# Config Firebase : contient des identifiants projet, a fournir separement
+android/app/google-services.json
+
+# Logs locaux
+android/erreur.txt

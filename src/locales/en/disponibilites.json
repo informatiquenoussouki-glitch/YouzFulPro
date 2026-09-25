@@ -1,0 +1,22 @@
+{
+  "jours": {
+    "lundi": "Monday",
+    "mardi": "Tuesday",
+    "mercredi": "Wednesday",
+    "jeudi": "Thursday",
+    "vendredi": "Friday",
+    "samedi": "Saturday",
+    "dimanche": "Sunday"
+  },
+  "back": "Back",
+  "title": "My availability",
+  "from": "From",
+  "to": "To",
+  "save": "Save",
+  "alerts": {
+    "successTitle": "Success",
+    "successMessage": "Availability saved!",
+    "errorTitle": "Error",
+    "errorMessage": "Unable to save"
+  }
+}

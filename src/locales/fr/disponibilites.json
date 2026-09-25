@@ -1,0 +1,22 @@
+{
+  "jours": {
+    "lundi": "Lundi",
+    "mardi": "Mardi",
+    "mercredi": "Mercredi",
+    "jeudi": "Jeudi",
+    "vendredi": "Vendredi",
+    "samedi": "Samedi",
+    "dimanche": "Dimanche"
+  },
+  "back": "Retour",
+  "title": "Mes disponibilités",
+  "from": "De",
+  "to": "A",
+  "save": "Sauvegarder",
+  "alerts": {
+    "successTitle": "Succès",
+    "successMessage": "Disponibilités sauvegardées !",
+    "errorTitle": "Erreur",
+    "errorMessage": "Impossible de sauvegarder"
+  }
+}

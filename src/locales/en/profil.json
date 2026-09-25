@@ -1,0 +1,49 @@
+{
+  "title": "My Profile",
+  "personalInfo": {
+    "title": "Personal information",
+    "cancel": "Cancel",
+    "modify": "Edit",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "save": "Save"
+  },
+  "links": {
+    "vehicules": {
+      "title": "My vehicles",
+      "subtitle": "Manage the vehicles you offer"
+    },
+    "disponibilites": {
+      "title": "My availability",
+      "subtitle": "Manage your availability schedule"
+    },
+    "plats": {
+      "title": "My dishes",
+      "subtitle": "Manage your dishes and menu"
+    },
+    "activites": {
+      "title": "Associated activities",
+      "subtitle": "Manage the activities you offer"
+    },
+    "notation": {
+      "title": "My rating"
+    },
+    "contactAdmin": {
+      "title": "Contact administration",
+      "subtitle": "Send a message to the YouzFul team"
+    }
+  },
+  "logout": {
+    "button": "Log out",
+    "confirmTitle": "Log out",
+    "confirmMessage": "Do you want to log out?",
+    "cancel": "Cancel",
+    "confirm": "Log out"
+  },
+  "alerts": {
+    "successTitle": "Success",
+    "profileUpdated": "Profile updated!"
+  }
+}

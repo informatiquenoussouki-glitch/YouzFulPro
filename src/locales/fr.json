@@ -1,0 +1,181 @@
+{
+  "inscription": {
+    "titre": "Rejoindre YouzFul Pro",
+    "etape": "Étape {{current}}/{{total}}",
+    "suivant": "Suivant",
+    "precedent": "Précédent",
+    "envoyer": "Envoyer ma demande",
+    "retour_connexion": "Retour à la connexion",
+
+    "step1": {
+      "titre": "Informations personnelles",
+      "prenom": "Prénom",
+      "nom": "Nom",
+      "email": "Adresse email",
+      "telephone": "Téléphone",
+      "password": "Mot de passe",
+      "password_confirm": "Confirmer le mot de passe",
+      "date_naissance": "Date de naissance",
+      "date_naissance_placeholder": "JJ/MM/AAAA",
+      "sexe": "Sexe",
+      "sexe_h": "Homme",
+      "sexe_f": "Femme",
+      "photo": "Photo de profil (optionnel)",
+      "choisir_photo": "Choisir une photo",
+      "numero_identite": "N° pièce d'identité (optionnel)",
+      "verifier_email": "Vérifier mon email",
+      "code_verification": "Code de vérification",
+      "code_placeholder": "4 chiffres",
+      "valider_code": "Valider",
+      "email_verifie": "Email vérifié ✓",
+      "erreur_age": "Vous devez avoir au moins 16 ans",
+      "erreur_password": "Les mots de passe ne correspondent pas",
+      "erreur_email_format": "Format email invalide",
+      "erreur_champs": "Veuillez remplir tous les champs obligatoires",
+      "verifier": "Vérifier",
+      "code_envoye": "Code envoyé à {{email}}",
+      "erreur_titre": "Erreur",
+      "erreur_envoi_code": "Impossible d'envoyer l'email, réessayez.",
+      "code_invalide": "Code invalide",
+      "code_invalide_expire": "Code invalide ou expiré",
+      "requis": "Requis",
+      "email_invalide": "Email invalide",
+      "erreur_verification_requise": "Veuillez vérifier votre email"
+    },
+
+    "step2": {
+      "titre": "Type de service",
+      "sous_titre": "Quel service proposez-vous ?",
+      "babysitter": "Baby-sitter",
+      "guide": "Guide touristique",
+      "transfert": "Chauffeur / Transfert",
+      "restaurant": "Restaurant",
+      "activite": "Activités & Excursions",
+      "erreur_selection": "Sélectionnez un service"
+    },
+
+    "step3": {
+      "titre": "Pays & Villes",
+      "pays": "Pays d'activité",
+      "villes": "Villes couvertes",
+      "selectionner_pays": "Sélectionner un pays",
+      "chargement": "Chargement...",
+      "erreur_villes": "Veuillez sélectionner au moins une ville",
+      "erreur_pays": "Sélectionnez un pays",
+      "aucune_ville": "Aucune ville disponible"
+    },
+
+    "step4": {
+      "titre": "Préférences",
+      "typevisites": "Types de visites proposées",
+      "avec_voiture": "Avec voiture personnelle",
+      "disponibilite": "Disponibilité",
+      "matin": "Matin",
+      "jour": "Journée",
+      "soir": "Soir",
+      "typetransferts": "Types de transferts",
+      "rayon_km": "Rayon de travail (km)",
+      "nom_restaurant": "Nom du restaurant",
+      "specialites": "Spécialités culinaires",
+      "ajouter_specialite": "Ajouter une spécialité",
+      "nom_specialite": "Nom de la spécialité",
+      "ajouter": "Ajouter",
+      "types_vehicules": "Types de véhicules",
+      "aucun_vehicule": "Aucun véhicule disponible",
+      "logo_restaurant": "Logo du restaurant (optionnel)",
+      "choisir_logo": "Choisir un logo",
+      "activites_proposees": "Activités que vous proposez",
+      "aucune_activite": "Aucune activité disponible",
+      "erreur_transfert": "Sélectionnez au moins un type de transfert",
+      "erreur_nom_resto": "Le nom du restaurant est requis",
+      "erreur_specialite": "Sélectionnez au moins une spécialité",
+      "erreur_activite": "Sélectionnez au moins une activité",
+      "erreur_ajout_specialite": "Impossible d'ajouter cette spécialité",
+      "types_transfert": {
+        "aeroport": "Aéroport",
+        "hotel": "Hôtel",
+        "excursion": "Excursion",
+        "tour_ville": "Tour de ville",
+        "pelerinage": "Pèlerinage"
+      }
+    },
+
+    "step5": {
+      "titre": "Langues parlées",
+      "sous_titre": "Sélectionnez vos langues",
+      "erreur": "Sélectionnez au moins une langue"
+    },
+
+    "step6": {
+      "titre": "Paiement",
+      "mode": "Mode de paiement",
+      "cash": "En espèces",
+      "virement": "Virement bancaire",
+      "iban": "IBAN / RIB (optionnel)",
+      "iban_placeholder": "FR76 XXXX XXXX XXXX",
+      "cgu": "J'accepte les conditions générales d'utilisation",
+      "voir_cgu": "Voir les CGU",
+      "erreur_cgu": "Vous devez accepter les CGU"
+    },
+
+    "step7": {
+      "titre": "Récapitulatif",
+      "nom_complet": "Nom complet",
+      "email": "Email",
+      "telephone": "Téléphone",
+      "service": "Service",
+      "pays": "Pays",
+      "villes": "Villes",
+      "langues": "Langues",
+      "paiement": "Paiement",
+      "confirmation_titre": "Votre demande a été envoyée !",
+      "confirmation_message": "Vous recevrez un email de confirmation.\nNotre équipe va vérifier votre profil sous 24-48h.",
+      "erreur_envoi": "Erreur lors de l'envoi, veuillez réessayer",
+      "paiement_virement_value": "🏦 Virement",
+      "paiement_especes_value": "💵 Espèces"
+    }
+  },
+
+  "login": {
+    "pas_inscrit": "Pas encore inscrit ?",
+    "rejoindre": "Rejoindre YouzFul Pro",
+    "subtitle": "Espace prestataire",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "se_connecter": "Se connecter",
+    "erreur_email_requis": "Veuillez saisir votre email",
+    "erreur_password_requis": "Veuillez saisir votre mot de passe",
+    "erreur_identifiants": "Email ou mot de passe incorrect",
+    "erreur_connexion": "Erreur de connexion",
+    "connexion_lente": "La connexion prend plus de temps que d'habitude, merci de patienter...",
+    "mdp_oublie": "Mot de passe oublié ?",
+    "forgot": {
+      "titre": "Mot de passe oublié",
+      "sous_titre": "Saisissez votre adresse email pour recevoir un lien de réinitialisation.",
+      "email": "Adresse email",
+      "envoyer": "Envoyer",
+      "retour": "Retour à la connexion",
+      "erreur_titre": "Erreur",
+      "erreur_email_vide": "Veuillez saisir votre adresse email",
+      "succes_titre": "Succès",
+      "succes_message": "Si cette adresse existe, un email de réinitialisation a été envoyé.",
+      "erreur_envoi": "Impossible d'envoyer l'email de réinitialisation."
+    }
+  },
+
+  "navigation": {
+    "tabs": {
+      "accueil": "Accueil",
+      "demandes": "Demandes",
+      "revenus": "Revenus",
+      "profil": "Profil"
+    },
+    "alertes": {
+      "mission_prete_titre": "Mission prête",
+      "mission_prete_message": "La demande prévue à {{heure}} peut commencer maintenant.",
+      "mission_demain_titre": "Mission demain",
+      "mission_demain_message": "Vous avez une mission prévue demain à {{heure}}.",
+      "mission_demain_message_plats": "Vous avez une mission prévue demain à {{heure}} : {{plats}}."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "header": {
+    "back": "Retour",
+    "title": "Ma Notation"
+  },
+  "nbAvis": "{{count}} avis",
+  "repartition": {
+    "positifs": "Positifs",
+    "moyens": "Moyens",
+    "negatifs": "Negatifs"
+  },
+  "position": {
+    "label": "{{position}}{{suffix}} prestataire le plus demandé{{totalSuffix}}",
+    "suffixFirst": "er",
+    "suffixOther": "eme",
+    "totalSuffix": " sur {{total}}"
+  },
+  "conseils": {
+    "title": "Conseils pour rester en tete",
+    "respond": "Répondez rapidement pour rester en tête de liste",
+    "rating": "Maintenez une note superieure a 4.5 pour recevoir les demandes en priorité",
+    "dispo": "Gardez vos disponibilités à jour pour maximiser vos chances"
+  },
+  "reviews": {
+    "title": "Avis clients ({{count}})",
+    "empty": "Aucun avis pour le moment"
+  }
+}

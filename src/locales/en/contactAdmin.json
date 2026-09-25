@@ -1,0 +1,29 @@
+{
+  "header": {
+    "back": "Back",
+    "title": "Contact administration"
+  },
+  "form": {
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "E.g. Payment issue",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Describe your request...",
+    "send": "Send"
+  },
+  "alerts": {
+    "successTitle": "Message sent",
+    "successMessage": "Your message has been sent to the administration.",
+    "errorTitle": "Error",
+    "errorMessage": "Could not send the message. Please try again.",
+    "missingFields": "Please fill in the subject and message."
+  },
+  "history": {
+    "title": "My messages",
+    "empty": "You haven't sent any messages.",
+    "statusNouveau": "Sent",
+    "statusLu": "Read by administration",
+    "statusTraite": "Answered",
+    "reply": "Administration reply",
+    "fromAdmin": "Message from administration"
+  }
+}

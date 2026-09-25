@@ -1,0 +1,47 @@
+{
+  "header": {
+    "back": "Back",
+    "title": "My vehicles"
+  },
+  "addButton": "Add a vehicle",
+  "empty": {
+    "title": "No vehicles registered",
+    "text": "Add the vehicles you offer for transfers."
+  },
+  "dispo": {
+    "matin": "Morning",
+    "jour": "Daytime",
+    "soir": "Evening",
+    "allDay": "All day"
+  },
+  "card": {
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "errors": {
+    "title": "Error",
+    "loadVehicules": "Unable to load your vehicles.",
+    "selectVehiculeType": "Select a vehicle type",
+    "selectVille": "Select at least one city",
+    "saveFailed": "Unable to save this vehicle",
+    "deleteFailed": "Unable to delete this vehicle."
+  },
+  "deleteConfirm": {
+    "title": "Delete",
+    "message": "Do you want to remove \"{{vehicule}}\" ({{ville}})?",
+    "cancel": "Cancel",
+    "confirm": "Delete"
+  },
+  "modal": {
+    "editTitle": "Edit vehicle",
+    "addTitle": "Add a vehicle",
+    "vehiculeType": "Vehicle type *",
+    "selectVehicule": "Select a vehicle",
+    "villeSingle": "City *",
+    "villeMultiple": "Cities * (multiple choices possible)",
+    "noVilleAvailable": "No cities available",
+    "availability": "Availability",
+    "cancel": "Cancel",
+    "save": "Save"
+  }
+}

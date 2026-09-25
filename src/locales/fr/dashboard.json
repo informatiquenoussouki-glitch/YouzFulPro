@@ -1,0 +1,51 @@
+{
+  "greeting": "Bonjour {{name}} !",
+  "defaultProvider": "Prestataire",
+  "serviceLabels": {
+    "babysitter": "Baby-sitter",
+    "guide": "Guide touristique",
+    "transfert": "Transfert",
+    "restaurant": "Restaurant",
+    "activite": "Activité"
+  },
+  "pendingSection": {
+    "title": "Demandes en attente ({{count}})",
+    "emptyTitle": "Aucune demande en attente",
+    "emptySubtitle": "Vous serez notifié dès qu'une demande arrive"
+  },
+  "missionsSection": {
+    "title": "Missions du jour ({{count}})",
+    "empty": "Aucune mission aujourd'hui"
+  },
+  "info": {
+    "prepareFor": "🕒 À préparer pour : {{date}} à {{heure}}",
+    "date": "📅 Date : {{date}}",
+    "startTime": "⏰ Heure de début : {{heure}}",
+    "noTimeSpecified": "Non précisée",
+    "unspecifiedTime": "heure non précisée",
+    "durationHours": "⏳ Durée : {{duree}} heure(s)",
+    "durationMinutes": "⏳ Durée : {{duree}} min",
+    "durationNotSpecified": "⏳ Durée : Non précisée",
+    "people": "👥 {{count}} personne(s)",
+    "client": "👤 Client : {{name}}",
+    "trip": "🗺️ Trajet : {{typevisites}}",
+    "vehicle": "🚗 Véhicule : {{vehicule}}"
+  },
+  "countdown": {
+    "expired": "Expiré",
+    "remaining": "Il vous reste {{remaining}} pour répondre"
+  },
+  "actions": {
+    "refuse": "✕ Refuser",
+    "accept": "✓ Accepter",
+    "start": "▶ Commencer"
+  },
+  "alerts": {
+    "limitReachedTitle": "Limite atteinte",
+    "limitReachedMessage": "Vous avez déjà 3 missions actives sur ce créneau. Impossible d'en accepter une autre.",
+    "errorTitle": "Erreur",
+    "acceptError": "Impossible d'accepter la demande",
+    "refuseError": "Impossible de refuser la demande",
+    "startError": "Impossible de commencer cette commande"
+  }
+}

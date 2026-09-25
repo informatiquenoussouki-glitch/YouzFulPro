@@ -1,0 +1,29 @@
+{
+  "header": {
+    "back": "Retour",
+    "title": "Contacter l'administration"
+  },
+  "form": {
+    "subjectLabel": "Sujet",
+    "subjectPlaceholder": "Ex : Problème de paiement",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Décrivez votre demande...",
+    "send": "Envoyer"
+  },
+  "alerts": {
+    "successTitle": "Message envoyé",
+    "successMessage": "Votre message a bien été transmis à l'administration.",
+    "errorTitle": "Erreur",
+    "errorMessage": "Impossible d'envoyer le message. Réessayez.",
+    "missingFields": "Veuillez remplir le sujet et le message."
+  },
+  "history": {
+    "title": "Mes messages",
+    "empty": "Vous n'avez envoyé aucun message.",
+    "statusNouveau": "Envoyé",
+    "statusLu": "Lu par l'administration",
+    "statusTraite": "Répondu",
+    "reply": "Réponse de l'administration",
+    "fromAdmin": "Message de l'administration"
+  }
+}

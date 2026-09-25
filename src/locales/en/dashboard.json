@@ -1,0 +1,51 @@
+{
+  "greeting": "Hello {{name}} !",
+  "defaultProvider": "Provider",
+  "serviceLabels": {
+    "babysitter": "Babysitter",
+    "guide": "Tour guide",
+    "transfert": "Transfer",
+    "restaurant": "Restaurant",
+    "activite": "Activity"
+  },
+  "pendingSection": {
+    "title": "Pending requests ({{count}})",
+    "emptyTitle": "No pending requests",
+    "emptySubtitle": "You will be notified as soon as a request arrives"
+  },
+  "missionsSection": {
+    "title": "Today's missions ({{count}})",
+    "empty": "No missions today"
+  },
+  "info": {
+    "prepareFor": "🕒 To prepare for: {{date}} at {{heure}}",
+    "date": "📅 Date: {{date}}",
+    "startTime": "⏰ Start time: {{heure}}",
+    "noTimeSpecified": "Not specified",
+    "unspecifiedTime": "time not specified",
+    "durationHours": "⏳ Duration: {{duree}} hour(s)",
+    "durationMinutes": "⏳ Duration: {{duree}} min",
+    "durationNotSpecified": "⏳ Duration: Not specified",
+    "people": "👥 {{count}} person(s)",
+    "client": "👤 Client: {{name}}",
+    "trip": "🗺️ Trip: {{typevisites}}",
+    "vehicle": "🚗 Vehicle: {{vehicule}}"
+  },
+  "countdown": {
+    "expired": "Expired",
+    "remaining": "{{remaining}} left to respond"
+  },
+  "actions": {
+    "refuse": "✕ Decline",
+    "accept": "✓ Accept",
+    "start": "▶ Start"
+  },
+  "alerts": {
+    "limitReachedTitle": "Limit reached",
+    "limitReachedMessage": "You already have 3 active missions in this time slot. You cannot accept another one.",
+    "errorTitle": "Error",
+    "acceptError": "Unable to accept the request",
+    "refuseError": "Unable to decline the request",
+    "startError": "Unable to start this order"
+  }
+}

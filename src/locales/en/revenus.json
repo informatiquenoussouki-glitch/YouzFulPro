@@ -1,0 +1,13 @@
+{
+  "title": "My Earnings",
+  "periodes": {
+    "mois": {"label": "This month", "lower": "this month"},
+    "semaine": {"label": "This week", "lower": "this week"},
+    "annee": {"label": "This year", "lower": "this year"}
+  },
+  "totalLabel": "Total {{period}}",
+  "history": {
+    "title": "Payment history",
+    "empty": "No payments for this period"
+  }
+}
